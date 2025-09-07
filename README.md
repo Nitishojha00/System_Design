@@ -3,7 +3,7 @@
 **Help [translate](TRANSLATIONS.md) this guide!**
 
 # The System Design Primer
-# okay i have to practice -> back od estimation 
+# okay i have to practice -> 1️⃣ Back-of-the-Envelope (BoE) Estimation
 
 <p align="center">
   <img src="images/jj3A5N8.png">
