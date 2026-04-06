@@ -1,0 +1,161 @@
+🔷 Software Engineering Methodologies (Techniques)
+
+Software Engineering methodologies wo structured approaches hote hain jinke through hum software develop, manage aur maintain karte hain systematically.
+
+👉 Simple line:
+
+“Methodology defines HOW to develop software step-by-step.”
+
+🔶 1. Waterfall Model (Traditional Method)
+4
+📌 Concept:
+
+Linear sequential model hai — ek phase khatam tab next start.
+
+📍 Phases:
+Requirement Analysis
+System Design
+Implementation (Coding)
+Testing
+Deployment
+Maintenance
+✅ Advantages:
+Simple aur easy samajhne me
+Small projects ke liye best
+Documentation strong hota hai
+❌ Disadvantages:
+Changes accept nahi karta easily
+Late testing → bugs late milte hain
+Real-world dynamic projects ke liye weak
+
+👉 Use case: Government projects, fixed requirement systems
+
+🔶 2. Agile Methodology (Modern Approach)
+4
+📌 Concept:
+
+Software ko small-small iterations (sprints) me develop kiya jata hai.
+
+📍 Key Features:
+Iterative + Incremental
+Continuous feedback
+Customer involvement
+📍 Agile Frameworks:
+Scrum
+Kanban
+Extreme Programming
+✅ Advantages:
+Fast delivery
+Flexible changes
+Continuous testing
+❌ Disadvantages:
+Proper planning mushkil
+Large teams me complexity
+
+👉 Use case: Startups, product-based companies (Amazon-type)
+
+🔶 3. V-Model (Verification & Validation)
+4
+📌 Concept:
+
+Waterfall ka improved version — har development phase ka corresponding testing phase hota hai.
+
+📍 Structure:
+
+Left side → Development
+Right side → Testing
+
+📍 Mapping:
+Requirement → Acceptance Testing
+Design → System Testing
+Coding → Unit Testing
+✅ Advantages:
+Early testing
+High quality
+❌ Disadvantages:
+Flexible nahi
+Cost high
+
+👉 Use case: Banking, medical systems
+
+🔶 4. Iterative Model
+4
+📌 Concept:
+
+Software ko repeatedly improve karte hain iterations me.
+
+📍 Flow:
+
+Build → Test → Improve → Repeat
+
+✅ Advantages:
+Early partial product milta hai
+Risk kam hota hai
+❌ Disadvantages:
+Planning difficult
+Rework zyada hota hai
+
+👉 Use case: Complex systems
+
+🔶 5. Spiral Model (Risk-Based)
+4
+📌 Concept:
+
+Iterative + Risk analysis combination
+
+👉 Developed by Barry Boehm
+
+📍 Phases:
+Planning
+Risk Analysis
+Engineering
+Evaluation
+✅ Advantages:
+Risk handling best
+Large projects ke liye ideal
+❌ Disadvantages:
+Complex
+Costly
+
+👉 Use case: Large enterprise systems
+
+🔶 6. DevOps (Modern Industry Standard)
+4
+📌 Concept:
+
+Development + Operations = DevOps
+Continuous integration & deployment
+
+📍 Tools:
+Git
+Docker
+Jenkins
+Kubernetes
+📍 Key Idea:
+
+👉 “Build → Test → Release → Deploy → Monitor → Repeat”
+
+✅ Advantages:
+Fast deployment
+Automation
+Better collaboration
+❌ Disadvantages:
+Setup complex
+Skilled team needed
+
+👉 Use case: Big tech companies (Google, Netflix)
+
+🔷 Comparison (Exam Gold ⭐)
+Model	Flexibility	Risk	Use
+Waterfall	Low	Low	Small projects
+Agile	High	Medium	Startups
+V-Model	Low	Low	Critical systems
+Iterative	Medium	Medium	Complex apps
+Spiral	High	High control	Large projects
+DevOps	Very High	Medium	Industry
+🔥 Final Conclusion (Exam Ready)
+
+👉 Software engineering methodologies define structured ways to develop software efficiently.
+👉 Traditional models (Waterfall, V-model) rigid hote hain.
+👉 Modern models (Agile, DevOps) flexible aur fast hote hain.
+👉 Project size, risk aur requirements ke basis par methodology choose ki jati hai.
